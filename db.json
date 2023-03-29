@@ -21,22 +21,88 @@
     ],
     "puma": [
         {
-            "id": 11,
-            "rating": 10,
-            "user_name": "puma",
-            "text": "You are the ironman of this world"
-        },
-        {
-            "id": 12,
-            "rating": 9,
-            "user_name": "sznil shorts",
-            "text": "You are the batman of this world"
-        },
-        {
-            "id": 13,
-            "rating": 8,
-            "user_name": "Peter Parker",
-            "text": "You are the spiderman of this world"
-        }
+      "id": 1,      
+      "img": "https://images.asos-media.com/products/puma-safari-back-print-t-shirt-in-green/204154172-2?$n_320w$&wid=317&fit=constrain",
+      "brand": "Puma Safari T-shirt in green",
+      "price": 27,
+      "category":"t-shirt"
+    },
+    {
+      "id": 2,      
+      "img": "https://images.asos-media.com/groups/puma-acid-bright-set-in-blue-exclusive-to-asos/93922-group-1?$n_320w$&wid=317&fit=constrain",
+      "brand": "Puma acid bright set in blue-exclusive",
+      "price": 35,
+      "category":"t-shirt"
+    },
+    {
+      "id": 3,      
+      "img": "https://images.asos-media.com/products/puma-safari-back-print-sweatshirt-in-ecru/204154277-2?$n_320w$&wid=317&fit=constrain",
+      "brand": "Puma safari back print sweatshirt",
+      "price": 27,
+      "category":"t-shirt"
+    },    
+    {
+      "id": 4,      
+      "img": "https://images.asos-media.com/products/puma-t-shirt-with-beach-back-print-in-green/203301801-2?$n_320w$&wid=317&fit=constrain",
+      "brand": "Puma T-shirt with beach back print",
+      "price": 31,
+      "category":"t-shirt"
+    },
+    {
+      "id": 5,      
+      "img": "https://images.asos-media.com/products/puma-rbd-game-low-trainers-in-khaki/203898064-2?$n_320w$&wid=317&fit=constrain",
+      "brand": "Puma RDB Game",
+      "price": 27,
+      "category":"footwear"
+    },
+    {
+      "id": 6,      
+      "img": "https://images.asos-media.com/products/puma-pwrframe-tr-2-trainers-in-black/204408821-2?$n_320w$&wid=317&fit=constrain",
+      "brand": "Puma acid bright set in blue-exclusive",
+      "price": 35,
+      "category":"footwear"
+    },
+    {
+      "id": 7,      
+      "img": "https://images.asos-media.com/products/puma-training-retaliate-trainers-in-khaki/14655785-2?$n_320w$&wid=317&fit=constrain",
+      "brand": "Puma training retaliate trainers",
+      "price": 27,
+      "category":"footwear"
+    },    
+    {
+      "id": 8,      
+      "img": "https://images.asos-media.com/products/puma-slipstream-trainers-in-white-with-black-and-green-suede-detail/203313158-2?$n_320w$&wid=317&fit=constrain",
+      "brand": "Puma slipstream Trainers",
+      "price": 31,
+      "category":"footwear"
+    },
+    {
+      "id": 9,      
+      "img": "https://images.asos-media.com/products/puma-essentials-small-logo-joggers-in-beige/203301844-2?$n_320w$&wid=317&fit=constrain",
+      "brand": "puma essentials small logo joggers in beige",
+      "price": 12,
+      "category":"jeans"
+    },
+    {
+      "id": 10,      
+      "img": "https://images.asos-media.com/products/puma-essentials-small-logo-joggers-in-varsity-green/203302049-2?$n_320w$&wid=317&fit=constrain",
+      "brand": "puma essentials small logo joggers",
+      "price": 35,
+      "category":"jeans"
+    },
+    {
+      "id": 11,      
+      "img": "https://images.asos-media.com/products/puma-essentials-jogger-with-logo-in-navy/204400136-2?$n_320w$&wid=317&fit=constrain",
+      "brand": "puma small logo joggers with navy",
+      "price": 27,
+      "category":"jeans"
+    },    
+    {
+      "id": 12,      
+      "img": "https://images.asos-media.com/products/puma-x-market-relaxed-joggers-in-black-multi/203301943-2?$n_320w$&wid=317&fit=constrain",
+      "brand": "puma small logo joggers with balck multi",
+      "price": 31,
+      "category":"jeans"
+    },
     ]
 }
