@@ -103,6 +103,62 @@
       "brand": "puma small logo joggers with balck multi",
       "price": 31,
       "category":"jeans"
+    },    
+    {
+      "id": 13,      
+      "img": "https://images.asos-media.com/products/puma-essentials-hoodie-with-logo-in-orange/204400070-1-orange?$n_320w$&wid=317&fit=constrain",
+      "brand": "puma essentials hoodie with logo in orange",
+      "price": 34,
+      "category":"t-shirt"
+    },    
+    {
+      "id": 14,      
+      "img": "https://images.asos-media.com/products/puma-safari-back-print-t-shirt-in-ecru/204154127-1-ivory?$n_320w$&wid=317&fit=constrain",
+      "brand": "puma safari back print t-shirt",
+      "price": 22,
+      "category":"t-shirt"
+    },    
+    {
+      "id": 15,      
+      "img": "https://images.asos-media.com/products/puma-teveris-nitro-trainers-in-nimbus-cloud/204342575-1-grey?$n_320w$&wid=317&fit=constrain",
+      "brand": "puma veris nitro trainers",
+      "price": 59,
+      "category":"footwear"
+    },    
+    {
+      "id": 16,      
+      "img": "https://images.asos-media.com/products/puma-ca-pro-classic-trainers-in-off-white/203884476-1-cream?$n_320w$&wid=317&fit=constrain",
+      "brand": "puma ca pro classic trainers",
+      "price": 41,
+      "category":"jeans"
+    },    
+    {
+      "id": 17,      
+      "img": "https://images.asos-media.com/products/puma-essentials-small-logo-slim-joggers-in-grey/23817340-1-mediumgrayheather?$n_320w$&wid=317&fit=constrain",
+      "brand": "puma essentials slim joggers in grey",
+      "price": 42,
+      "category":"jeans"
+    },    
+    {
+      "id": 18,      
+      "img": "https://images.asos-media.com/groups/puma-acid-bright-set-in-green-exclusive-to-asos/93918-group-1?$n_320w$&wid=317&fit=constrain",
+      "brand": "puma acid bright set in green",
+      "price": 63,
+      "category":"shorts"
+    },    
+    {
+      "id": 19,      
+      "img": "https://images.asos-media.com/groups/puma-essentials-small-logo-t-shirt-and-joggers-in-dark-blue/84026-group-1?$n_320w$&wid=317&fit=constrain",
+      "brand": "puma t-shirt and joggers in dark-blue",
+      "price": 47.60,
+      "category":"shorts"
+    },    
+    {
+      "id": 20,      
+      "img": "https://images.asos-media.com/products/puma-acid-bright-cargo-shorts-in-blue-exclusive-to-asos/203266912-1-blue?$n_320w$&wid=317&fit=constrain",
+      "brand": "puma acid bright cargo shorts",
+      "price": 25.50,
+      "category":"shorts"
     }
     ],
     "cart":[]
